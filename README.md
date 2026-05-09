@@ -11,6 +11,7 @@ Welcome to the official documentation for **HMRBase**, a specialized knowledge b
 Rashid, M., Singla, D., Sharma, A., Kumar, M., & Raghava, G. P. S. (2009). 
 **Hmrbase: a database of hormones and their receptors.** *BMC Genomics*, 10, 307. 
 [https://doi.org/10.1186/1471-2164-10-307](https://doi.org/10.1186/1471-2164-10-307)
+Zonedo:-(https://doi.org/10.5281/zenodo.20094900)
 
 ---
 
