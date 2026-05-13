@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **HMRBase**, a specialized knowledge base focusing on the specific pairs of hormones and their respective receptors across various species. Hormones are vital signaling molecules secreted by endocrine glands that regulate essential life processes, including growth, differentiation, physiology, and reproduction.
 
-**Web Server:** [http://crdd.osdd.net/raghava/hmrbase/](http://crdd.osdd.net/raghava/hmrbase/)
+**Web Server:** [http://crdd.osdd.net/raghava/hmrbase/](http://crdd.osdd.net/raghava/hmrbase/)(https://webs.iiitd.edu.in/raghava/hmrbase)
 
 ---
 
